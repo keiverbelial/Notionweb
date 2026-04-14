@@ -34,7 +34,7 @@ export const renderPricing = () => {
         {
             id: "essential",
             name: "Essential",
-            price: "15",
+            price: "20",
             desc: "Seguridad y estabilidad",
             features: ["Copias de seguridad", "Actualizaciones menores", "Soporte vía Correo", "Monitoreo 24/7"],
             btn: "border border-slate-700 hover:bg-slate-800"
@@ -42,7 +42,7 @@ export const renderPricing = () => {
         {
             id: "pro",
             name: "Nexus Pro",
-            price: "25",
+            price: "30",
             desc: "Soporte VIP y cambios",
             features: ["Soporte WhatsApp VIP", "1 Cambio de diseño/mes", "Seguridad Avanzada", "Optimización mensual"],
             btn: "bg-blue-600 shadow-lg shadow-blue-500/20",
